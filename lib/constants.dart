@@ -11,6 +11,13 @@ const kSemiboldTextStyle = TextStyle(
   color: kColorSecondary,
 );
 
+const kButtonTextStyle = TextStyle(
+  fontFamily: 'Montserrat',
+  fontSize: 14,
+  fontWeight: FontWeight.w600,
+  color: kColorPrimary,
+);
+
 const kHeadlineTextStyle = TextStyle(
   fontFamily: 'Montserrat',
   fontSize: 24,
