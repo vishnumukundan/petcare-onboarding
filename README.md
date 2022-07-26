@@ -81,10 +81,10 @@ This is a small user interface design project for petcare application. This is i
 ## :camera: Screenshots
 
 <div style="display:grid">
-    <img style="width: 300px" src="screenshots/gif.gif" alt="gif" title="gif">
-    <img style="width: 300px" src="screenshots/Page1.png" alt="Page1" title="Page1">
-    <img style="width: 300px" src="screenshots/Page2.png" alt="Page2" title="Page2">
-    <img style="width: 300px" src="screenshots/Page3.png" alt="Page3" title="Page3">
+    <img style="width: 250px" src="screenshots/gif.gif" alt="gif" title="gif">
+    <img style="width: 250px" src="screenshots/page1.png" alt="page1" title="page1">
+    <img style="width: 250px" src="screenshots/page2.png" alt="page2" title="page2">
+    <img style="width: 250px" src="screenshots/page3.png" alt="page3" title="page3">
 </div>
 
 <p align="right"><a href="#top"> :arrow_up_small: </a></p>
