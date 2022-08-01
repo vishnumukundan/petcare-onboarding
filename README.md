@@ -57,7 +57,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## :blue_book: About The Project
 
-This is a small user interface design project for petcare application. This is inspired by a figma design by [Bony Fasius Gultom](https://www.figma.com/community/file/1132226107845791209) .
+This is a small user interface design project for petcare application. This is inspired by a figma design by [Bony Fasius Gultom](https://www.figma.com/community/file/1126128942169301254) .
 
 <br />
 
